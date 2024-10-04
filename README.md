@@ -9,5 +9,5 @@
 
 [Easy food recipe link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
-Here is a sample image:
+
 ![SadPepe](https://media.tenor.com/JWOqX2E7rFoAAAAi/sadpepe-sad.gif)
