@@ -5,10 +5,9 @@
 ## Features:
 - Trying out a few features below
   > quoting above text here
-- Writing <sup> Superscript </sup> and <sub> Subscript </sub>
+- Writing ^superscript^ and ~subscript~
 
-[Easy food recipe link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) 
+[Easy food recipe link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 Here is a sample image:
-![SadPepe]([https://media.tenor.com/JWOqX2E7rFoAAAAi/sadpepe-sad.gif])
-
+![SadPepe](https://media.tenor.com/JWOqX2E7rFoAAAAi/sadpepe-sad.gif)
